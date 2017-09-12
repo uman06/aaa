@@ -1,1 +1,1 @@
-# Test  git clonecommand
+# Test  git clone command
